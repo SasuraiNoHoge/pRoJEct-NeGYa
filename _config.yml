@@ -2,7 +2,7 @@
 title: SasuraiNoHoge
 owner: "DeerRIDER"
 url: "https://sasurainohoge.github.io"
-baseurl: "/pRoJEct-NeGYa"
+baseurl: "/jekyll"
 permalink: /:title/
 description: ""
 markdown: kramdown
